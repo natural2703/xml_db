@@ -1,0 +1,8 @@
+<employee>
+    <personId>2</personId>
+    <firstName>John</firstName>
+    <lastName>Doe</lastName>
+    <mobile>987665323</mobile>
+    <email>john2.doe@example.com</email>
+    <pesel>12345678902</pesel>
+</employee>
